@@ -8,3 +8,7 @@ Key functionalities include:
 - **Location Services**: Automatic location detection to provide instant weather updates for users' current locations.
 
 This project not only showcases technical skills in web development but also emphasizes the importance of user experience and accessibility in delivering valuable information.
+![Screenshot (4)](https://github.com/user-attachments/assets/bf29946c-c834-479b-98cc-8bd44adf8374)
+![Screenshot (3)](https://github.com/user-attachments/assets/de7d8c04-444f-479f-9671-97c2b10bfda4)
+
+
